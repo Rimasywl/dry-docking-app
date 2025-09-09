@@ -9,4 +9,7 @@ export default defineNuxtConfig({
       tailwindcss(),
     ],
   },
+  routeRules: {
+    '/': { redirect: 'dashboard' } 
+  }
 });
