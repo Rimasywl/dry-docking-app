@@ -33,7 +33,10 @@
               placeholder="Cari..."
               class="px-3 py-2 border rounded-md w-64" />
             <select class="px-3 py-2 border rounded-md w-32">
-              <option>Processing...</option>
+              <option>Semua</option>
+              <option>Completed</option>
+              <option>Execution</option>
+              <option>Planning</option>
             </select>
           </div>
           <button class="px-4 py-2 bg-blue-500 text-white rounded-md">

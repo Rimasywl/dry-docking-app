@@ -53,3 +53,4 @@ const specifications = [
   // Add more specifications as needed
 ];
 </script>
+
